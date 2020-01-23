@@ -55,9 +55,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 145,
-    "x": 965,
+    "height": 24,
+    "width": 146,
+    "x": 964,
     "y": 2005
   },
   "glyphBounds": "{{0, 2}, {143, 10}}",
