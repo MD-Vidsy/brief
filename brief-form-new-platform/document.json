@@ -1,0 +1,324 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8627450980392157,
+          "green": 0.3803921568627451,
+          "red": 0.2078431372549019
+        },
+        "do_objectID": "4DCFC0E6-EB60-464A-9FC5-FF74417C0B57",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6549019607843137,
+          "green": 0.9411764705882353,
+          "red": 0.0784313725490196
+        },
+        "do_objectID": "4F01FB4C-4A54-4E7B-925D-BA6A6B26CEAB",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.9490196078431372,
+          "red": 0.9490196078431372
+        },
+        "do_objectID": "63B80AF6-11AE-4F5E-8FB2-657BB8678E70",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "FA82C7D8-7F8D-4107-A005-7E5F4190EC5C",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.792156862745098,
+          "red": 0.9725490196078431
+        },
+        "do_objectID": "6D988316-4A83-48F4-96EE-B7CF5D724EED",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1019607843137255,
+          "green": 0.09019607843137255,
+          "red": 0.09019607843137255
+        },
+        "do_objectID": "D33B7C20-E236-47DB-B328-94BA09691CF9",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3058823529411765,
+          "green": 0.1529411764705882,
+          "red": 0.8901960784313725
+        },
+        "do_objectID": "D0EADA9A-70F8-4BE6-906E-78D50CDE6060",
+        "name": ""
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8627450980392157,
+        "green": 0.3803921568627451,
+        "red": 0.2078431372549019
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.9411764705882353,
+        "red": 0.0784313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9490196078431372,
+        "green": 0.9490196078431372,
+        "red": 0.9490196078431372
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.792156862745098,
+        "red": 0.9725490196078431
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1019607843137255,
+        "green": 0.09019607843137255,
+        "red": 0.09019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3058823529411765,
+        "green": 0.1529411764705882,
+        "red": 0.8901960784313725
+      }
+    ],
+    "do_objectID": "ABA88E61-FDCC-485C-9942-6E2333B2C16C",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+      {
+        "_class": "MSImmutableGradientAsset",
+        "do_objectID": "F0A2B437-AA67-46DD-BBE7-1F1E7E85C7C3",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2352941176470588,
+                "green": 0.1764705882352941,
+                "red": 0.1686274509803922
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1843137254901961,
+                "green": 0.1254901960784314,
+                "red": 0.1215686274509804
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 1}"
+        },
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableGradientAsset",
+        "do_objectID": "7516BFE7-8F73-4D36-AA07-C78EE69CC695",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.203921568627451,
+                "green": 0.192156862745098,
+                "red": 0.192156862745098
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1529411764705882,
+                "green": 0.1411764705882353,
+                "red": 0.1411764705882353
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 1}"
+        },
+        "name": ""
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.2352941176470588,
+              "green": 0.1764705882352941,
+              "red": 0.1686274509803922
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.1843137254901961,
+              "green": 0.1254901960784314,
+              "red": 0.1215686274509804
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.203921568627451,
+              "green": 0.192156862745098,
+              "red": 0.192156862745098
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.1529411764705882,
+              "green": 0.1411764705882353,
+              "red": 0.1411764705882353
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 1}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "E47D2EA7-7EF1-4901-82E1-7AA8A7BF3F9A",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "61.2",
+    "build": 89653,
+    "version": 121
+  },
+  "pages": [
+    "LOFI 0.1",
+    "LOFI 0.2",
+    "HIFI 0.1",
+    "HIFI 0.2",
+    "HIFI 0.3",
+    "HIFI 0.4",
+    "EXP",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
