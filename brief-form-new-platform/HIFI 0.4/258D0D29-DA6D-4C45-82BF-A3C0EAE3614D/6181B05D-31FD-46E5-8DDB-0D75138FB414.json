@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 35,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "Submission date date and time (UTC)"
+    "string": "Submission date and time (UTC)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,7 +57,7 @@
     "x": 329,
     "y": 1697
   },
-  "glyphBounds": "{{0, 2}, {301, 18}}",
+  "glyphBounds": "{{0, 2}, {260, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Submission date date",
+  "name": "Submission date and",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
