@@ -57,6 +57,10 @@
     },
     {
       "class": "artboard",
+      "id": "5C5A21C1-E8EE-4A12-B26B-E2AC8EB753B7"
+    },
+    {
+      "class": "artboard",
       "id": "517AD551-77BA-41A0-824F-ED5CC996D706"
     },
     {
@@ -152,7 +156,7 @@
     "com.betterthantomorrow.sketch.distributor": {
       "distributorCenterSpacing": 0,
       "distributorDimension": 1,
-      "distributorSpacing": "8"
+      "distributorSpacing": "32"
     }
   },
   "verticalRulerData": {
